@@ -1,6 +1,4 @@
-# kashishverma
-Let's Connect!
-# Hi, I'm Kashish Verma 👋
+# Hi, I am Kashish Verma 👋
 
 ## About Me
 - 👩‍💻 Frontend & ML Developer
