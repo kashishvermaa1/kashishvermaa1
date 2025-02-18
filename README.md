@@ -2,7 +2,7 @@
 
 ## About Me
 - 👩‍💻 Frontend & ML Developer
-- 🎓 BTech, ECE-AI (CGPA: 8.72/10) - IGDTUW
+- 🎓 BTech, ECE-AI (CGPA: 8.84/10) - IGDTUW
 - 🌱 Learning C++ & Python
 - 💬 Pronouns: She/Her
 
